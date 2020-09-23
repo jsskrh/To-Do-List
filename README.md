@@ -22,5 +22,8 @@ Double-click the "index.html" file after unzipping the downloaded zip file.
 ## Authors
 * **Jesse Akorah** (https://github.com/jsskrh)
 
+## License
+This project is licensed under the MIT License - see the LICENSE.txt file for details
+
 ## Acknowledgments
 * Colt Steele's Bootcamp course
